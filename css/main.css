@@ -1,0 +1,11 @@
+html, body {
+	background-color: #100f3a;
+	color: #fffff8;
+	text-align: center;
+	font-family: Montserrat, sans-serif;
+	/* or : Poppins, sans-serif;*/
+	width: 100%;
+	overflow: visible;
+	padding: 0;
+	margin: 0;
+}

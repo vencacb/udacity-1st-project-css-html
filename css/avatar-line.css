@@ -1,0 +1,182 @@
+@media(max-width: 575px) {
+    .avatar-name-date-box {
+        display: flex;
+        flex-direction: row;
+        white-space: wrap;
+        align-items: center;
+        padding: 1em;
+        border-bottom: 0.5px dotted #dbdada;
+        /*background-color: #fff;
+            -webkit-box-shadow: 5px 5px 12px 2px rgba(0, 0, 0, 0.26);
+            box-shadow: 5px 5px 12px 2px rgba(0, 0, 0, 0.26);*/
+        /*border: 4px dotted rgb(255, 0, 200);*/
+      }
+      .content-title {
+        margin: 30px;
+        text-align: center;
+      }
+      .content-title h1 {
+        vertical-align: top;
+        margin: 0;
+        padding: 0;
+        font-size: 2em;
+        color: #100f3a;
+      }
+      .avatar {
+        background-image: url("../images/lin.png");
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        width: 50px;
+        height: 50px;
+        border-radius: 50%;
+        margin-right: .5rem;
+        /*border: 4px dotted rgb(180, 28, 172);*/
+      }
+      p.name {
+        color: rgb(35, 41, 61);
+        margin-left: 10px;
+        /*border: 4px dotted rgb(156, 137, 50);*/
+      }
+      p.date {
+        margin-left: 10px;
+        color: rgb(110, 43, 43);
+        /*border: 4px dotted rgb(28, 175, 180);*/
+      }
+      .social-icons-box {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        align-items: center;
+        margin-left: auto;
+      }
+      /*p.share{
+            color:rgb(42, 43, 119);
+            margin-left: auto;
+        }*/
+      .social-icons {
+        height: 30px;
+        width: 30px;
+        margin-right: 5px;
+    }
+}
+@media (min-width: 575px) {
+.avatar-name-date-box {
+    display: flex;
+    flex-direction: row;
+    white-space: wrap;
+    align-items: center;
+    padding: 1em;
+    border-bottom: 0.5px dotted #dbdada;
+    /*background-color: #fff;
+		-webkit-box-shadow: 5px 5px 12px 2px rgba(0, 0, 0, 0.26);
+		box-shadow: 5px 5px 12px 2px rgba(0, 0, 0, 0.26);*/
+    /*border: 4px dotted rgb(255, 0, 200);*/
+  }
+  .content-title {
+    margin: 30px;
+    text-align: center;
+  }
+  .content-title h1 {
+    vertical-align: top;
+    margin: 0;
+    padding: 0;
+    font-size: 72px;
+    color: #100f3a;
+  }
+  .avatar {
+    background-image: url("../images/lin.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-right: .5rem;
+    /*border: 4px dotted rgb(180, 28, 172);*/
+  }
+  p.name {
+    color: rgb(35, 41, 61);
+    margin-left: 10px;
+    /*border: 4px dotted rgb(156, 137, 50);*/
+  }
+  p.date {
+    margin-left: 10px;
+    color: rgb(110, 43, 43);
+    /*border: 4px dotted rgb(28, 175, 180);*/
+  }
+  .social-icons-box {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    margin-left: auto;
+  }
+  .social-icons {
+    height: 30px;
+    width: 30px;
+    margin-right: 5px;
+  }
+}
+@media (min-width: 979px) {
+    .avatar-name-date-box {
+        display: flex;
+        flex-direction: row;
+        white-space: wrap;
+        align-items: center;
+        padding: 1em;
+        border-bottom: 0.5px dotted #dbdada;
+        /*background-color: #fff;
+            -webkit-box-shadow: 5px 5px 12px 2px rgba(0, 0, 0, 0.26);
+            box-shadow: 5px 5px 12px 2px rgba(0, 0, 0, 0.26);*/
+        /*border: 4px dotted rgb(255, 0, 200);*/
+      }
+      .content-title {
+        margin: 30px;
+        text-align: center;
+      }
+      .content-title h1 {
+        vertical-align: top;
+        margin: 0;
+        padding: 0;
+        font-size: 92px;
+        color: #100f3a;
+      }
+      .avatar {
+        background-image: url("../images/lin.png");
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        width: 50px;
+        height: 50px;
+        border-radius: 50%;
+        margin-right: .5rem;
+        /*border: 4px dotted rgb(180, 28, 172);*/
+      }
+      p.name {
+        color: #23293d;
+        margin-left: 10px;
+        /*border: 4px dotted rgb(156, 137, 50);*/
+      }
+      p.date {
+        margin-left: 10px;
+        color: rgb(110, 43, 43);
+        /*border: 4px dotted rgb(28, 175, 180);*/
+      }
+      .social-icons-box {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        align-items: center;
+        margin-left: auto;
+      }
+      /*p.share{
+            color:rgb(42, 43, 119);
+            margin-left: auto;
+        }*/
+      .social-icons {
+        height: 30px;
+        width: 30px;
+        margin-right: 5px;
+      }
+}
